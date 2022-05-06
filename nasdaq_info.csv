@@ -1,4 +1,4 @@
-Company,Ticker,GICS Sector,GICS Sub-Industry
+company,ticker,gics_sector,gics_sub_industry
 Activision Blizzard,ATVI,Communication Services,Interactive Home Entertainment
 Adobe,ADBE,Information Technology,Application Software
 ADP,ADP,Information Technology,Data Processing & Outsourced Services
